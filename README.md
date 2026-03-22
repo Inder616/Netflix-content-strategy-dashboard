@@ -109,7 +109,7 @@ No fluff. Pure signal.
 ```
 Data Pipeline
 ─────────────
-Kaggle Dataset  ──►  Python (Clean & Merge)  ──►  Power BI
+Kaggle Dataset  ──►  Python (Clean & Append)  ──►  Power BI
                                                       │
                                           ┌───────────┴───────────┐
                                      Power Query              DAX Measures
