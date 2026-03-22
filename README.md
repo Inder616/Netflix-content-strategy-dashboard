@@ -141,7 +141,7 @@ Budget, Revenue & Profit data exists **only for Movies**. TV Shows have null val
 
 ```bash
 # Step 1 — Clone this repo
-git clone https://github.com/yourusername/netflix-dashboard.git
+git clone https://github.com/Inder616/Netflix-content-strategy-dashboard.git
 
 # Step 2 — Open the dashboard
 # Launch Power BI Desktop → Open File → select the .pbix file
