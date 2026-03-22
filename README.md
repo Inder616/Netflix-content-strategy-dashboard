@@ -154,7 +154,7 @@ git clone https://github.com/Inder616/Netflix-content-strategy-dashboard.git
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Image/dashboard_preview.png)
+![Dashboard](Netflix-PowerBI-Dashboard/Image/dashboard_preview.png)
 
 ---
 
