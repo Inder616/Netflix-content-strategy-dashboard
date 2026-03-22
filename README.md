@@ -18,7 +18,7 @@
 
 # 🎬 Content Strategy Intelligence Dashboard
 
-### *Turning Netflix's 15,000+ titles into boardroom-ready insights*
+### *Turning 15,000+ Netflix titles into actionable business insights*
 
 <br/>
 
