@@ -137,6 +137,16 @@ Budget, Revenue & Profit data exists **only for Movies**. TV Shows have null val
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard](Netflix-PowerBI-Dashboard/Image/dashboard_preview.png)
+
+---
+
+### 🔗 Repository Link
+[Open Repository](https://github.com/Inder616/Netflix-content-strategy-dashboard)
+
+---
 ## ▶️ How to Run
 
 ```bash
@@ -149,14 +159,6 @@ git clone https://github.com/Inder616/Netflix-content-strategy-dashboard.git
 # Step 3 — Explore
 # Use the Content Type filter (Movie / TV Show) to slice every visual
 ```
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](Netflix-PowerBI-Dashboard/Image/dashboard_preview.png)
-
----
 
 ## 👤 About the Author
 
