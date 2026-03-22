@@ -154,7 +154,7 @@ git clone https://github.com/Inder616/Netflix-content-strategy-dashboard.git
 
 ## 📸 Dashboard Preview
 
-> *Screenshot coming soon — open the `.pbix` file to see the full interactive experience*
+![Dashboard](Image/dashboard_preview.png)
 
 ---
 
