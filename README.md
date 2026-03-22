@@ -22,9 +22,9 @@
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/yourusername/netflix-dashboard?style=social)](.)
-[![Forks](https://img.shields.io/github/forks/yourusername/netflix-dashboard?style=social)](.)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](.)
+[![Stars](https://img.shields.io/github/stars/Inder616/Netflix-content-strategy-dashboard?style=social)](https://github.com/Inder616/Netflix-content-strategy-dashboard)
+[![Forks](https://img.shields.io/github/forks/Inder616/Netflix-content-strategy-dashboard?style=social)](https://github.com/Inder616/Netflix-content-strategy-dashboard)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/inder-a61a57307/)
 
 </div>
 
@@ -166,7 +166,7 @@ git clone https://github.com/Inder616/Netflix-content-strategy-dashboard.git
 
 `Power BI` · `Python` · `SQL` · `DAX` · `Data Storytelling`
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](.)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inder-a61a57307/)
 
 </div>
 
